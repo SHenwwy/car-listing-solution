@@ -20,4 +20,6 @@ Then After activating, the terminal prompt will change to show (venv), and they 
 and final step to run the> streamlit run app.py
 
 
-
+IMPORTANT NOTE: 
+In the .env file please open it and there will be a variable named>> RECIPIENT_EMAIL.
+DON'T FORGET TO CHANGE THIS GEMAIL TO YOUR GEMAIL AND KEEP THE REST THE SAME
