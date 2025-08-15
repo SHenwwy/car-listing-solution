@@ -16,7 +16,7 @@ cd <repository_name>
 Navigate to the project folder in the terminal.Then run> python -m venv venv.
 On Windows (Command Prompt) run> .\venv\Scripts\activate
 On macOS and Linux> source venv/bin/activate.
-Then After activating, the terminal prompt will change to show (venv), and they can proceed with the pip install -r requirements.txt.
+Then After activating, the terminal prompt will change to show (venv), and you can proceed with the pip install -r requirements.txt.
 and final step to run the> streamlit run app.py
 
 
