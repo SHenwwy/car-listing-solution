@@ -13,6 +13,8 @@ First, clone the repository to your local machine:
 git clone <your_repository_url>
 cd <repository_name>
 
+or you can download it as a zip folder then unzip it 
+
 Navigate to the project folder in the terminal.Then run> python -m venv venv.
 On Windows (Command Prompt) run> .\venv\Scripts\activate
 On macOS and Linux> source venv/bin/activate.
