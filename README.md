@@ -1,5 +1,6 @@
 Car Listing Assistant
 This application provides a simple web interface for users to upload a car image and a text description. It then uses an AI model to extract structured data from the text and sends the listing details via email.
+(THIS IS JUST A DEMO ASPER THE REQUIREMENTS)
 
 Setup and Installation
 Follow these steps to set up and run the project on your local machine.
